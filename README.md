@@ -10,15 +10,15 @@ Pingou swims upward, depths : 1
 Pingou swims upward, depths : 0
 Pingou gets out of the water.
 TakeOff!
-Ascend 120
+Hawkeye ascending 120
 Height is 120
-Ascend 30
+Hawkeye ascending 30
 Height is 150
 glides into the air.
-Descend 140
+Hawkeye descending 140
 Height is 10
 Land
-Descend 9
+Hawkeye descending 9
 Height is 0
 cannot descend any more!
 Land
